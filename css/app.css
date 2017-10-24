@@ -1,0 +1,134 @@
+/*font-family: 'Berkshire Swash', cursive;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+font-family: 'Rokkitt', serif;*/
+
+
+
+#indexpage {
+background-color: #021321;
+}
+
+h1 {
+  font-family: 'berkshire swash', cursive;
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  color: #FFE5AF;
+  padding: 4px;
+}
+
+h2 {
+  font-family: 'signika negative', sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: #88A380;
+  margin-top: -50px;
+}
+
+.bigheadline {
+  background-color: gray;
+  color: white;
+  height: 500px;
+  text-align: center;
+}
+
+.bigheadline a:link, a:visited {
+  font-family: 'rokkitt', serif;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  background-color: #02331C;
+  padding: 8px 15px;
+  border-style: groove;
+  border-color: #012916;
+  text-decoration: none;
+
+}
+
+.bigheadline a:hover, a:active {
+  font-family: 'rokkitt', serif;
+  text-align: center;
+  font-size: 25px;
+  color: #D94450;
+  padding: 8px 15px;
+  border-style: groove;
+}
+
+h3 {
+  font-family: 'rokkitt', serif;
+  font-size: 40px;
+  padding-top: 150px;
+}
+h4 {
+  font-family: 'rokkitt', serif;
+}
+
+.slideshow {
+  background-color: black;
+  height: 400px;
+  text-align: center;
+  color: white;
+}
+
+.welcome {
+  font-family: 'Catamaran', sans-serif;
+  height: 500px;
+  border-bottom: solid;
+  border-color: #FFAC69;
+}
+
+h5 {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 35px;
+  color: #FFAC69;
+  text-align: center;
+  padding-top: 50px;
+}
+.welcome p {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+  color: #E5C08C;
+  text-align: center;
+}
+
+.bottommenu {
+  font-family: 'rokkitt', serif;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  height: 200px;
+}
+
+.bottommenu a:link, a:visited {
+  font-family: 'rokkitt', serif;
+  text-align: center;
+  font-size: 25px;
+  padding: 8px 15px;
+  color: white;
+  background-color: #D94450;
+  border-style: groove;
+  border-color: #D94450;
+  text-decoration: none;
+}
+.bottommenu a:hover, a:active {
+  font-family: 'rokkitt', serif;
+  text-align: center;
+  font-size: 25px;
+  padding: 8px 15px;
+  color: #012916;
+  background-color: #D94450;
+  border-style: groove;
+  border-color: #D94450;
+}
+.allday {
+  margin: 50px;
+}
+
+.footer {
+  height: 80px;
+  color: gray;
+  text-align: center;
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
+}
